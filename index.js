@@ -59,3 +59,7 @@ function fetchTimeStories(callback) {
 fetchTimeStories((stories) => {
     console.log(JSON.stringify(stories, null, 2));
 });
+
+
+
+//Run this code --- node index.js 
